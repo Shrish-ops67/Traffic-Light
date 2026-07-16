@@ -24,7 +24,7 @@ Traffic-Light/
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/your-repository-name.git
+   https://github.com/Shrish-ops67/Traffic-Light
    ```
 
 2. Open the project folder.
