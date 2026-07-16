@@ -1,0 +1,52 @@
+body{
+    display: flex;
+}
+
+.box{
+    width: 150px;
+    border: 3px solid black;
+    height: 250px;
+    text-align: center;
+    border-radius: 15px;
+    margin-left: 650px;
+    margin-top: 200px;
+}
+
+.green{
+    border: 3px solid black;
+    border-radius: 50%;
+    height: 60px;
+    width: 60px;
+    margin: 15px auto;
+}
+
+.yellow{
+    border: 3px solid black;
+    border-radius: 50%;
+    height: 60px;
+    width: 60px;
+    margin: 15px auto;
+}
+
+.red{
+    border: 3px solid black;
+    border-radius: 50%;
+    height: 60px;
+    width: 60px;
+    margin: 15px auto;
+
+}
+
+.green{
+    background-color: green;
+}
+.red{
+    background-color: red;
+}
+.yellow{
+    background-color: yellow;
+}
+
+h1{
+    text-align: center;
+}
